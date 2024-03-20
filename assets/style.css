@@ -109,13 +109,14 @@
 }
 
 .text-custom {
+  flex-direction: row;
   font-size: 35px;
   font-weight: 550;
 }
 
 .text-secondary-custom {
   color: #797878;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
 }
 
@@ -142,22 +143,4 @@
   gap: 30px;
 }
 
-.underline{
-  text-decoration: underline;
-}
 
-.texto-quartos {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  padding-left: 63%;
-  padding-top: 13%;
-}
-
-.titulo-quartos{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 30px;
-  text-decoration: underline;
-}
