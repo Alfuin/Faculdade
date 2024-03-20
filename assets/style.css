@@ -17,6 +17,15 @@
   padding-top: 0; 
 }
 
+.background-image1 {
+  background-image: url('Backgroun-Quartos.jpg');
+  background-size: over;
+  background-position: center;
+  height: 90vh;
+  margin-top: 0; 
+  padding-top: 0; 
+}
+
 .navbar-custom {
     display: flex;
     justify-content: end;
@@ -133,4 +142,22 @@
   gap: 30px;
 }
 
+.underline{
+  text-decoration: underline;
+}
 
+.texto-quartos {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 63%;
+  padding-top: 13%;
+}
+
+.titulo-quartos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  text-decoration: underline;
+}
