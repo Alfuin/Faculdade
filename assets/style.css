@@ -100,13 +100,14 @@
 }
 
 .text-custom {
+  flex-direction: row;
   font-size: 35px;
   font-weight: 550;
 }
 
 .text-secondary-custom {
   color: #797878;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
 }
 
@@ -132,5 +133,3 @@
   display: flex;
   gap: 30px;
 }
-
-
