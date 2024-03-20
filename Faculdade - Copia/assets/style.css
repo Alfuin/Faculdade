@@ -17,6 +17,16 @@
   padding-top: 0; 
 }
 
+.background-image1 {
+  background-image: url('QuartoTopo.jpg');
+  background-size: over;
+  background-position: center;
+  width: 100%;
+  height: 90vh;
+  margin-top: 0; 
+  padding-top: 0; 
+}
+
 .navbar-custom {
     display: flex;
     justify-content: end;
