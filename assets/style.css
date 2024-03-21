@@ -143,4 +143,10 @@
   gap: 30px;
 }
 
-
+.texto-quartos{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 60%;
+  padding-top: 15%;
+}
